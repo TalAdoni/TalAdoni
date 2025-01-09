@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TalAdoni
-- 👀 I’m interested in Hardware and VLSI designing
+- 👀 I’m interested in front-end hardware.
 - 🌱 I’m currently learning Electrical and Computer Engineering
-- 📫 How to reach me Linkedin - https://www.linkedin.com/in/tal-adoni-800880220
+- 📫 How to reach me Linkedin - https://www.linkedin.com/in/tal-adoni/ or mail me Taladoni9012@gmail.com
 
 
 <!---
